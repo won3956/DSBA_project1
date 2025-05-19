@@ -11,5 +11,6 @@ AI 모델 학습, 예측을 통하여 인지•언어 기능을 점수화하여 
 - 🗓️ 기간: 2025.04.29 ~ 2025.05.23
 
 
-### 
+### -
+- 데이터셋: [AI-hub 인지기능 장애 진단 음성/대화](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=217)
 - [노션](https://www.notion.so/1e408f47f46a802cab07ef7709d00784?v=1e408f47f46a809c88e6000c6adf670e&pvs=4)
