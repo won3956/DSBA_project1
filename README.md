@@ -18,5 +18,9 @@ AI 모델 학습, 예측을 통하여 인지•언어 기능을 점수화하여 
 
 ### git clone
 
-        git clone https://github.com/won3956/DSBA_project1.git
+    git clone https://github.com/won3956/DSBA_project1.git
+
+### Requirements
+
+    pip install -r requiremetns.txt
 
